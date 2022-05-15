@@ -1,0 +1,6 @@
+Damascus is the capital of Syria:Y
+Iskandaria is the capital of Egypt:N
+Baghdad is the capital of Iraq:Y
+Damascus is the capital of Syria:Y
+Iskandaria is the capital of Egypt:N
+Baghdad is the capital of Iraq:Y
